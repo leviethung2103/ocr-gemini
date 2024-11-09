@@ -1,0 +1,26 @@
+# Start Generation Here
+# Python project files to ignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+*.json
+*.jpg
+*.png
+*.gif
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info/
+*.DS_Store
+# End Generation Here
+.env
